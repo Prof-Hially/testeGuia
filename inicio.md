@@ -1,5 +1,5 @@
 # teste
-- teste
+- teste teste teste
 <ins>will be underlined</ins>
 
 &nbsp;&nbsp;&nbsp;&nbsp;This is the first sentence of my indented paragraph.
